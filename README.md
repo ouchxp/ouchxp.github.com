@@ -98,12 +98,10 @@ These are languages, tools, and practices to which I have had used over the past
 Education
 ---------
 ####[Coursera](http://coursera.com)
-
 - Functional Programming Principles in Scala: 100
 - Programming Mobile Applications for Android Handheld Systems: [100](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
 
 ####[University of Waikato](http://waikato.ac.nz), Postgraduate Diploma, Computer Science, 2013 - 2014
-
 - Cyber Security: B+
 - Software Engineering Methodologies: A
 - Developing Mobile Applications: A+
@@ -114,7 +112,7 @@ Education
 Honors and Awards
 -----------------
 
-*Employee of the Year*, Edgesoft, Feb 2012
+- *Employee of the Year*, Edgesoft, Feb 2012
 
 Interests
 ---------
