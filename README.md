@@ -99,15 +99,15 @@ Education
 ---------
 ####[Coursera](http://coursera.com)
 
-Functional Programming Principles in Scala: 100
-Programming Mobile Applications for Android Handheld Systems: [100](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
+- Functional Programming Principles in Scala: 100
+- Programming Mobile Applications for Android Handheld Systems: [100](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
 
 ####[University of Waikato](http://waikato.ac.nz), Postgraduate Diploma, Computer Science, 2013 - 2014
 
-Cyber Security: B+
-Software Engineering Methodologies: A
-Developing Mobile Applications: A+
-Extremely Parallel Programming: A+
+- Cyber Security: B+
+- Software Engineering Methodologies: A
+- Developing Mobile Applications: A+
+- Extremely Parallel Programming: A+
 
 ####[Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Bachelor's Degree, Computer Science, 2004 - 2008
 
