@@ -16,7 +16,7 @@ Summary
 
 I am an experienced web developer who has participated in multiple successful projects. I am passionate about building high quality apps with modern web technologies. 
 
-Currently, I am about to finish my Postgraduate Diploma in Computer Science at the University of Waikato, New Zealand. Before I came to New Zealand, I worked 4 years as a web developer in China. My skill set mainly include Java, Scala, JavaScript/jQuery, ActionScript/Adobe Air/Flex etc. I am also interested in Parallel Computing, Machine Learning and Android app development.
+Recently, I finished my Postgraduate Diploma in Computer Science at the University of Waikato, New Zealand. Before I came to New Zealand, I worked 4 years as a web developer in China. My skill set mainly include Java, Scala, JavaScript/jQuery, ActionScript/Adobe Air/Flex etc. I am also interested in Parallel Computing, Machine Learning and Android app development.
 
 
 Experience
