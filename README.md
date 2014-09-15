@@ -5,7 +5,7 @@ Web Developer
 -----------------------
 - Sex: Male
 - Age: 29
-- Phone: [+64 0221734221](tel://610-590-4484)
+- Phone: [+64 221734221](tel://+64221734221)
 - Email: <ouchxp.me@gmail.com>
 - Github: [ouchxp](http://github.com/ouchxp)
 - LinkedIn: [ouchxp](http://nz.linkedin.com/in/ouchxp/)
@@ -55,6 +55,7 @@ These are languages, tools, and practices to which I have had used over the past
 ### Programming Languages
 
 - [Java](https://www.java.com/)*
+- [JavaScript](http://www.ecmascript.org/)*
 - [ActionScript](http://www.adobe.com/devnet/actionscript.html)*
 - [Scala](http://www.scala-lang.org/)
 
@@ -87,6 +88,7 @@ These are languages, tools, and practices to which I have had used over the past
 - [Sublime Text](http://www.sublimetext.com)*
 - [Subversion](http://svn.apache.org)*
 - [VirtualBox](http://virtualbox.org)*
+- [Git](http://git-scm.com/)
 - [Amazon Web Services](http://aws.amazon.com)
 - [Apache](http://apache.org)
 - [SQLite](http://www.sqlite.org/)
@@ -98,14 +100,18 @@ These are languages, tools, and practices to which I have had used over the past
 Education
 ---------
 ####[Coursera](http://coursera.com)
-- Functional Programming Principles in Scala: 100
-- Programming Mobile Applications for Android Handheld Systems: [100](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
+- [Functional Programming Principles in Scala](https://www.coursera.org/records/NC6cJm4v6L8jey9H)
+- Machine Learning
+- R Programming
+- [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
+- [Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems](https://www.coursera.org/records/JeTWEQwhzNYJgSQy)
 
 ####[University of Waikato](http://waikato.ac.nz), Postgraduate Diploma, Computer Science, 2013 - 2014
-- Cyber Security: B+
-- Software Engineering Methodologies: A
-- Developing Mobile Applications: A+
 - Extremely Parallel Programming: A+
+- Developing Mobile Applications: A+
+- Software Engineering Methodologies: A
+- Cyber Security: B+
+
 
 ####[Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Bachelor's Degree, Computer Science, 2004 - 2008
 
