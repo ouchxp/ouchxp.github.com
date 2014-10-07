@@ -25,19 +25,19 @@ Experience
 
 *July 2013 - July 2014* (1 year)
 
-I participated in [FLAX](http://flax.nzdl.org/greenstone3/flax) (Flexible Language Acquisition) project while studying in University of Waikato. I developed a library in order to facilitate Android app development of FLAX, and it has became a standard library of FLAX. In this project, I use [Simple](http://simple.sourceforge.net) to handle the XML deserialization and [ORMLite](http://ormlite.com/) to handle the data persistent.
+I participated in [FLAX](http://flax.nzdl.org/greenstone3/flax) (Flexible Language Acquisition) project while studying in University of Waikato. I developed a library in order to facilitate Android app development of FLAX project. This library allow user to reduce the developing complexity to 1/4 of original version, and it has became a standard library of FLAX project. In this project, I use [Simple](http://simple.sourceforge.net) to handle the XML deserialization and [ORMLite](http://ormlite.com/) to handle the data persistent.
 
 ### **Senior Java Developer** at [Edgesoft](http://edgesoft.cn/)
 
 *October 2010 - October 2012* (2 years)
 
-As a member of the Front team, I participate in the development of FX trading product. Be response for Java server maintenance(Spring, ActiveMQ, Tomcat cluster, MySql cluster) and Front-End develop(Adobe Air/Flex, Java, jQuery). In charge of JavaChart maintenance and the development of MiniTrade(Adobe Air) and Experimental Trading System(Adobe Flex).
+As a member of the Front team, I participate in the development of FX trading product. Be response for Java server side (Spring, ActiveMQ, Tomcat cluster, MySql cluster) development, maintenance and Front-End (Adobe Air/Flex, Java, jQuery) developing. In charge of the development of MiniTrade (Adobe Air) and Experimental Trading System (Adobe Flex), also be responsible for JavaChart maintenance. Received Employee of the Year, 2012
 
 ### **Software Engineer** at [Neusoft](http://www.neusoft.com/)
 
 *November 2009 - October 2010* (1 year)
 
-Developing reward point system (Sub system of CRM) for China Telecom and China Unicom. In charge of the system maintenance of seven provinces. Deal with database tables with 1 billion records. Played a leading role in system refactoring (Oracel PL/SQL + JDBC -> Spring + iBatis) in the team.
+Developing reward point system (Sub system of CRM) for China Telecom and China Unicom. In charge of the system developing and maintenance of seven provinces. Deal with database tables with 1 billion records. Played a leading role in system refactoring (Oracel PL/SQL + JDBC -> Spring + iBatis) in the team.
 
 ### **Web Developer** at [Beijing LZT](http://www.lzt.com.cn/)
 
