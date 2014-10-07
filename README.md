@@ -105,6 +105,7 @@ Education
 - R Programming
 - [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/records/ZMDseSzYweXFGN5n)
 - [Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems](https://www.coursera.org/records/JeTWEQwhzNYJgSQy)
+- [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/verify/8R6EF8J3HM)
 
 ####[University of Waikato](http://waikato.ac.nz), Postgraduate Diploma, Computer Science, 2013 - 2014
 - Extremely Parallel Programming: A+
